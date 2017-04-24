@@ -1,0 +1,7 @@
+FROM java:7
+
+WORKDIR /sri
+ADD . /sri
+CMD ["javac","sri.java"]
+CMD ["java","sri"]
+
