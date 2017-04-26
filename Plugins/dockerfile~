@@ -1,0 +1,8 @@
+FROM java:7
+RUN apt-get update
+WORKDIR /sri
+ADD . /sri
+RUN test.txt
+RUN javac filetest.java 
+CMD ["java","filetest"]
+
