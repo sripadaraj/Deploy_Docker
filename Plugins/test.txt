@@ -1,6 +1,0 @@
-HELLO OPENEBS!!!!!!
-THE FILE YOU ARE READING IS IN THE LOCAL DIRECTORY
-
-This the testfile that is written to test the usage of the volumes
-
-
