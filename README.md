@@ -28,7 +28,7 @@ manage a cluster of Docker nodes as a single virtual system.
 
  4. Docker Compose :
 
-Compose is a tool for defining and running multi-container Docker applications. 
+Compose is a tool for defining and running multi-container Docker  applications. 
 With Compose, you use a Compose file to configure your application's services. 
 Then, using a single command, you create and start all the services from your configuration.
 
@@ -38,3 +38,8 @@ A service responsible for hosting and distributing images.
 The default registry is the Docker Hub. Repository. 
 
 ```
+ ##  Go to Dir-Dockyjava
+ > This directory helps you to run a java file without installation of any jdk or jre on your local host
+ 
+ ## Go to Dir-DockyVloumes
+ > This directory helps you to run your local volume into the container and run
